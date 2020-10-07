@@ -20,5 +20,4 @@ public class CrossPayCalculator {
         //Display the results
         System.out.println("The employee's cross pay is: R" + crossPay);
     }
-
 }
